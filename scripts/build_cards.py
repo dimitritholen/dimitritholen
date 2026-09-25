@@ -28,7 +28,7 @@ from html import escape
 from pathlib import Path
 
 OWNER = "dimitritholen"
-REPOS = ["tasqx", "1337-claude", "proudhuman"]
+REPOS = ["tasqx", "1337-claude", "proudhuman", "clouter"]
 OUT_DIR = Path(__file__).resolve().parent.parent / "cards"
 
 CARD_W, CARD_H = 720, 148

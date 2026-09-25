@@ -28,5 +28,13 @@ I build tools for working with coding agents: a local organiser, Claude Code plu
     </picture>
   </a>
 </p>
+<p>
+  <a href="https://github.com/dimitritholen/clouter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/clouter-dark.svg">
+      <img src="cards/clouter.svg" width="720" alt="clouter: Claude Code plugin that routes image, SVG, video and speech prompts to Jev-ranked OpenRouter models.">
+    </picture>
+  </a>
+</p>
 
 <sub>The cards are SVGs drawn by <a href="scripts/build_cards.py">scripts/build_cards.py</a> from each repo's README header and metadata, and refreshed nightly.</sub>
